@@ -1,4 +1,4 @@
-- Hi, I’m @Jeffmont0
+- Hi, I’m Jefferson Monteiro
 - I'm interested in becoming full stack
 - I’m currently learning Python and C
 - I'm looking to collaborate on something that makes me learn more
