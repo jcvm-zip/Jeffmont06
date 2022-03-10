@@ -1,4 +1,4 @@
-## Olá, eu sou Jefferson Monteiro, Estudante de Programação e graduando em Ciências da Computação!
+## Olá, eu sou Jefferson Monteiro, estudante de programação e graduando em Ciências da Computação!
 <div align="center">
   <a href="https://github.com/jeffmont06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffmont06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
