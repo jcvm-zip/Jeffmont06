@@ -1,4 +1,4 @@
-# Olá, eu sou Jefferson Monteiro, estudante de programação e graduando em Ciências da Computação!
+# Olá, eu sou Jefferson Monteiro, apaixonado por tecnologia e graduando em Ciências da Computação!
 
 ## Onde me encontrar
 
