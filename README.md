@@ -39,7 +39,6 @@ Hoje, sou um desenvolvedor Full Stack com conhecimento em diversas tecnologias, 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ##### Arquitetura e design
-![Microservices](https://img.shields.io/badge/Microservices-%234169E1.svg?style=for-the-badge")
 ![API Restful](https://img.shields.io/badge/REST-API-1abc9c.svg?style=for-the-badge")
 
 ##### Sistema Operacional
