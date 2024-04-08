@@ -1,13 +1,11 @@
 # Bem-vindo ao meu perfil! 👋
 
 ## Sobre mim
-Olá, sou um desenvolvedor apaixonado por tecnologia e programação. Desde novo, sempre fui fascinado por computadores e por como as coisas funcionam por trás das telas. Com o tempo, fui me interessando cada vez mais pela programação e decidi me especializar nesta área.
-
-Hoje, sou um desenvolvedor Full Stack com conhecimento em diversas tecnologias, como Java, Spring, Postgres, IntelliJ IDEA, Python, HTML, CSS e JavaScript. Também tenho conhecimento em servidores de aplicação, como Tomcat, e ferramentas de automação de builds, como Maven.
+Olá, sou um desenvolvedor apaixonado por tecnologia e programação. Sempre fui fascinado por computadores e por como as coisas funcionam por trás das telas. Com o tempo, fui me interessando cada vez mais pela programação e decidi me especializar nesta área.
 
 ### Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeff-mont-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcvm-zip/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jcvmZip)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcvm.zip@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Zangetsu_06)
